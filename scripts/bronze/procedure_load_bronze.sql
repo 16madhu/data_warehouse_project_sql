@@ -109,5 +109,8 @@ with (
  print '----------------------------------------';
  end catch
  end
+ /* Note to execute stored procedure:*/
  exec bronze.load_bronze
+
+
 
