@@ -1,0 +1,1 @@
+/* DDL scripts creating all necessary tables in bronze layer */
